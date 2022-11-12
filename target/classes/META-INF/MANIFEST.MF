@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Ameni Hamdi
+Build-Jdk: 16.0.1
+Implementation-Title: tpAchatProject
+Implementation-Version: 1.0
+Implementation-Vendor-Id: com.esprit.examen
+Implementation-URL: https://spring.io/projects/spring-boot/tpAchatProjec
+ t
+Created-By: Maven Integration for Eclipse
+
